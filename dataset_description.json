@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Larval zebrafish navigating a virtual thermal plaid created by an infrared stimulus laser",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Haesemeyer, Martin"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
